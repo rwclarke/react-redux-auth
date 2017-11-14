@@ -3,7 +3,7 @@
 
 ```
 > git clone https://github.com/rwclarke/react-redux-auth.git
-> cd ReduxSimpleStarter
+> cd react-redux-auth
 > npm install
 > npm start
 ```
